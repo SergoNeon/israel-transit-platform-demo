@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "source": "Israeli Ministry of Transport GTFS shapes.txt",
+  "officialPublishedGeometry": true,
+  "realtime": false,
+  "shards": 24,
+  "tripCount": 30121,
+  "shapeCount": 1090,
+  "sourcePoints": 1347480,
+  "simplifiedPoints": 172526,
+  "toleranceMeters": 11,
+  "sourceServiceDates": [
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ]
+}
