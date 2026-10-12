@@ -13,3 +13,9 @@ GPS, observed arrival predictions, ticket sales or payments. A historical
 GPS option is labeled delayed, not live. The open-source map service and
 transit archive are external public resources; application source remains private.
 Check the dates in the UI: this static schedule must be refreshed regularly.
+
+**OpenStreetMap derived walking paths:** the public `network/footpaths.json.gz`
+is distributed under the Open Database Licence 1.0 (ODbL). © OpenStreetMap
+contributors, Geofabrik regional extract. Only mapped pedestrian way topology
+is encoded, and crossings/accessibility/safety are NOT independently verified.
+The commercial route-planner source code is separate and private.
