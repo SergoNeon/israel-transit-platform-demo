@@ -4,7 +4,12 @@ Compiled static front-end preview, published on free GitHub Pages. The commercia
 source code and infrastructure remain in a separate **private GitHub repository**.
 
 **This preview is not an approved transport ticket/payment service.**
-The interactive fallback route network and departure times are fictional samples.
-The official static GTFS published schedules and optional shapes are bundled as
-public data for browser-side use. No live SIRI/GPS, ticket sales or payments.
-The pilot covers selected Tel Aviv stops and seven explicit scheduled service days.
+The passenger map uses official nationwide Ministry GTFS stops, lines, shapes
+and scheduled stop-specific departure times for seven explicit service dates.
+The national Journey planner uses chronological GTFS connections and searches
+up to 4 changes at the SAME stop ID, in a 12-hour boarding horizon. This
+version does not provide safe walking connections, official live SIRI vehicle
+GPS, observed arrival predictions, ticket sales or payments. A historical
+GPS option is labeled delayed, not live. The open-source map service and
+transit archive are external public resources; application source remains private.
+Check the dates in the UI: this static schedule must be refreshed regularly.
