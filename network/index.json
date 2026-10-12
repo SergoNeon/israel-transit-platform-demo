@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "source": "Israel Ministry of Transport national GTFS",
+  "publishedAt": "2026-10-12T12:35:15.261476+00:00",
+  "realtime": false,
+  "scheduledLive": false,
+  "stopCount": 35377,
+  "routeCount": 7686,
+  "operatorCount": 36,
+  "shapeCount": 6706,
+  "shards": 64,
+  "sourceShapePoints": 7041386,
+  "simplifiedShapePoints": 861190,
+  "disclaimer": "Published route catalog only. No live bus positions or authenticated SIRI feed."
+}
