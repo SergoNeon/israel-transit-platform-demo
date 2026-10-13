@@ -2,23 +2,23 @@
   "schema": 1,
   "source": "Israel MOT official GTFS scheduled only",
   "dates": [
-    "2026-10-12",
     "2026-10-13",
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
     "2026-10-17",
-    "2026-10-18"
+    "2026-10-18",
+    "2026-10-19"
   ],
   "shards": 64,
-  "routeCount": 7671,
-  "variantCount": 7723,
-  "activeTrips": 192208,
-  "stopTimeEvents": 7084637,
+  "routeCount": 7679,
+  "variantCount": 7731,
+  "activeTrips": 193272,
+  "stopTimeEvents": 7131048,
   "skippedInvalidEvents": 0,
   "maxTripStops": 118,
-  "compressedBytes": 39339407,
+  "compressedBytes": 39386528,
   "realtime": false,
-  "generatedAt": "2026-10-12T19:50:10.519730+00:00",
+  "generatedAt": "2026-10-13T03:23:24.171184+00:00",
   "warning": "Exact published planned times. NOT observed bus arrival, live ETA, GPS, or official ticket."
 }

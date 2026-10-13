@@ -3,13 +3,13 @@
   "method": "time-ordered-CSA",
   "source": "Israel Ministry of Transport GTFS",
   "dates": [
-    "2026-10-12",
     "2026-10-13",
     "2026-10-14",
     "2026-10-15",
     "2026-10-16",
     "2026-10-17",
-    "2026-10-18"
+    "2026-10-18",
+    "2026-10-19"
   ],
   "slotsPerDay": 24,
   "slotSeconds": 7200,
@@ -22,46 +22,39 @@
   "stopCount": 35377,
   "stats": [
     {
-      "date": "2026-10-12",
-      "trips": 122997,
-      "connections": 4333934,
-      "badSegments": 351,
-      "compressedBytes": 42336001
-    },
-    {
       "date": "2026-10-13",
       "trips": 122988,
       "connections": 4333955,
       "badSegments": 351,
-      "compressedBytes": 42335793
+      "compressedBytes": 42335606
     },
     {
       "date": "2026-10-14",
       "trips": 123010,
       "connections": 4334854,
       "badSegments": 351,
-      "compressedBytes": 42348572
+      "compressedBytes": 42348396
     },
     {
       "date": "2026-10-15",
       "trips": 122860,
       "connections": 4329708,
       "badSegments": 351,
-      "compressedBytes": 42309702
+      "compressedBytes": 42309470
     },
     {
       "date": "2026-10-16",
       "trips": 62644,
       "connections": 2238773,
       "badSegments": 124,
-      "compressedBytes": 21280805
+      "compressedBytes": 21280767
     },
     {
       "date": "2026-10-17",
       "trips": 21741,
       "connections": 765131,
       "badSegments": 66,
-      "compressedBytes": 6953956
+      "compressedBytes": 6953949
     },
     {
       "date": "2026-10-18",
@@ -69,8 +62,15 @@
       "connections": 4367580,
       "badSegments": 357,
       "compressedBytes": 42651164
+    },
+    {
+      "date": "2026-10-19",
+      "trips": 123541,
+      "connections": 4355314,
+      "badSegments": 356,
+      "compressedBytes": 42551492
     }
   ],
-  "createdAt": "2026-10-12T19:53:29.479515+00:00",
+  "createdAt": "2026-10-13T03:26:42.025910+00:00",
   "warning": "Scheduled trips, NOT GPS. Transfer only at identical GTFS stop IDs."
 }
