@@ -7,10 +7,23 @@
     <meta name="theme-color" content="#0b121b" />
     <meta name="description" content="Транспортная карта Израиля: автобусные линии, остановки, перевозчики и маршруты по официальным данным GTFS." />
     <title>TRANSIT / IL — Транспортная карта Израиля</title>
-    <script type="module" crossorigin src="/israel-transit-platform-demo/assets/index-DEoz3WcV.js"></script>
-    <link rel="stylesheet" crossorigin href="/israel-transit-platform-demo/assets/index-C_tfSegv.css">
+    <style>
+      html,body{margin:0;background:#0a1722;color:#e9eced;font-family:Arial,sans-serif}
+      .nx-boot{height:100dvh;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:18px;text-align:center;padding:20px;box-sizing:border-box}
+      .nx-boot strong{font-size:24px;letter-spacing:-1px}.nx-boot strong span{color:#dfb878}
+      .nx-boot p{margin:0;font-size:13px;color:#b1bfca;max-width:330px;line-height:1.7}
+      .nx-boot a{color:#efd098;padding:11px 20px;text-decoration:none;border:1px solid #917a57;border-radius:9px;background:#1d2b39}
+    </style>
+    <script type="module" crossorigin src="/israel-transit-platform-demo/assets/index-DVowJ6qE.js"></script>
+    <link rel="stylesheet" crossorigin href="/israel-transit-platform-demo/assets/index-BXBGY05B.css">
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root"><div class="nx-boot" role="status">
+      <strong>TRANSIT <span>/ IL</span></strong>
+      <p>Загрузка транспортной карты Израиля…</p>
+      <p>Если экран не меняется, обновите страницу или откройте адрес в браузере Chrome.</p>
+      <a href="./">Обновить страницу</a>
+    </div></div>
+    <noscript>Для интерактивной карты необходим JavaScript.</noscript>
   </body>
 </html>
